@@ -19,3 +19,21 @@ Whether you're a student looking to expand your programming skills, an aspiring 
 So, what are you waiting for? Dive into the provided link, unravel the secrets of this captivating project, and embark on an exhilarating journey to create your own streaming platform. The possibilities are endless, and the world of online entertainment awaits your creative touch.
 
 Join us now and let your imagination run wild with the Netflix Clone project!
+
+# HOW TO RUN THE WEB APPLICATION:
+
+This is a web application built using Django framework, aiming to replicate the functionality and user interface of the popular streaming platform Netflix.
+
+## Getting Started
+To use the To-Do List application, follow these steps:
+
+> Clone the repository to your local machine
+> Install Python and Django on your system
+> Create a virtual environment for the project
+> Activate the virtual environment
+> Run the command python manage.py migrate to set up the database
+> Run the command python manage.py runserver to start the server
+> Open a web browser and navigate to http://localhost:8000 to access the application
+
+## Acknowledgments
+This project was created with the help of the Django documentation and various online tutorials.
